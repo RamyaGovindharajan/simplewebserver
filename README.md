@@ -32,11 +32,11 @@ content = """
     <h1 align ="center">configuration of my laptop(Ramya,24003270)</h1>
     <pre>
         <ul >
-        <li><b>Device name</b>       DESKTOP-P1C9LOB</li>
-        <li><b>processor </b >       AMD Athlon Silver 3050U with Radeon Graphics 2.30 GHz</li>
-        <li><b>Installed RAM </b>    8.00 GB (5.92 GB usable)</li>
-        <li><b>Device ID</b>         EF372F6D-2E48-4B5A-B99F-E9BB97A4BF54</li>
-        <li><b>product ID </b>       00356-24587-25956-AAOEM</li>
+        <li><b>Device name</b>       ramyasanthu</li>
+        <li><b>processor </b >       13th Gen Intel(R) Core(TM) i5-1335U   1.30 GHz</li>
+        <li><b>Installed RAM </b>    16.0 GB (15.7 GB usable)</li>
+        <li><b>Device ID</b>         15EEA3B2-7EF5-4DEC-903D-577382C3C005</li>
+        <li><b>product ID </b>       00342-42708-33503-AAOEM</li>
         <li><b>System type</b>       64-bit operating system, x64-based processor</li>
         <li><b>Pen and Touch</b>     No pen or touch input is available for this display</li>
         <li><u><b>this is the end bro</b></u></li></ul>
